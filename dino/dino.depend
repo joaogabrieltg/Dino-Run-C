@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1648674631 source:c:\users\joaog\documents\faculdade\2020.2\programar\dino\main.c
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<locale.h>
+	<conio.h>
+	"Funcoes.h"
+
+1648673994 c:\users\joaog\documents\faculdade\2020.2\programar\dino\funcoes.h
+
+1648673994 source:c:\users\joaog\documents\faculdade\2020.2\programar\dino\funcoes.h
+
+1648674396 source:c:\users\joaog\documents\faculdade\2020.2\programar\dino\localdasfuncoes.c
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+
